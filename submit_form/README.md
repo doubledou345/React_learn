@@ -1,0 +1,1 @@
+A simple submission page using React following instructions on https://www.taniarascia.com/getting-started-with-react/
